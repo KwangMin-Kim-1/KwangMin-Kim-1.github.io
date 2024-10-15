@@ -25,3 +25,5 @@ My research interests lie across **robot learning, control theory, and optimizat
 * My Ph.D. research at SNU was centered on optimization-based/optimal/nonlinear **control theory** and probabilistically optimal nonlinear state **estimation theory** with applications to automation of complex mechanical systems.
 
 Please feel free to contact me if you are interested.
+
+<br>
