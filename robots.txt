@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://KwangMin-Kim-1/KwangMin-Kim-1.github.io/sitemap.xml
+Sitemap: https://KwangMin-Kim-1.github.io/sitemap.xml
